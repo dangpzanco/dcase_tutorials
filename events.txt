@@ -1,0 +1,3 @@
+file1.wav	10.0	15.0	speech
+file1.wav	23.0	26.0	footsteps
+file2.wav	2.0	5.0	speech

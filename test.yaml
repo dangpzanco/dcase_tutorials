@@ -1,0 +1,11 @@
+test:
+  field1: 1
+  field2: 200
+test2: 100
+test3:
+  field1:
+    fieldA: 1
+  field2:
+    fieldA: 1
+  field3:
+    fieldA: 1
